@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wang Jingyi
+title: Jingyi Wang
 
 # Is this the primary user of the site?
 superuser: true
